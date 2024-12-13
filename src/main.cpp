@@ -8,6 +8,7 @@ int L6 = 16;
 int L7 = 4;
 int L8 = 0;
 int potPin = 36;
+
 void setup(){
     pinMode (L1,OUTPUT);
     pinMode (L2,OUTPUT);
